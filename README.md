@@ -1,2 +1,2 @@
 # Rick_PyQT
-Dad you know what to do with this.
+I'm currently just uploading random stuff trying to regain my python skills
